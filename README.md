@@ -33,6 +33,6 @@ This repository contains a multi‐user academic portal implemented entirely wit
 - **Experiments (Phase B‑A & B‑B)**  
   - **Selectivity Tests:** six range queries on `imdb_score`, `year`, `pc_id` with `EXPLAIN ANALYZE`  
   - **Join Strategy Tests:** four join queries involving `Actor`, `Movie`, `Casting`, `ProductionCompany`  
-  - Automated scripts to collect & summarize optimizer plans  
+  - summarize and explain optimizer plans  
 
 ---
