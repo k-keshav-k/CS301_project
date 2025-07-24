@@ -5,7 +5,7 @@
 ---
 
 ## 📖 Overview  
-This repository contains a multi‐user academic portal implemented entirely within PostgreSQL (Phase A) and a large‐scale data generation & query‐optimizer experiment suite (Phase B). The portal manages students, faculty, course offerings, registrations, tickets, grade uploads, and transcript/report generation via stored procedures, triggers, constraints, and role‐based privileges :contentReference[oaicite:0]{index=0}. Phase B scripts generate millions of synthetic tuples for movie–actor–company datasets and run `EXPLAIN ANALYZE` experiments to study index usage, selectivity, and join strategies :contentReference[oaicite:1]{index=1}.
+This repository contains a multi‐user academic portal implemented entirely within PostgreSQL (Phase A) and a large‐scale data generation & query‐optimizer experiment suite (Phase B). The portal manages students, faculty, course offerings, registrations, tickets, grade uploads, and transcript/report generation via stored procedures, triggers, constraints, and role‐based privileges. Phase B scripts generate millions of synthetic tuples for movie–actor–company datasets and run `EXPLAIN ANALYZE` experiments to study index usage, selectivity, and join strategies.
 
 ---
 
