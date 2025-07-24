@@ -36,3 +36,24 @@ This repository contains a multi‐user academic portal implemented entirely wit
   - summarize and explain optimizer plans  
 
 ---
+
+## 🗂️ Repository Structure  
+
+- **cs301-academic-portal/**
+  - **Phase A/**
+    - `create_table.sql`
+    - `permissions.sql`
+    - `stored_procedures.sql`
+    - `testing.sql`
+    - `ticket.sql`
+    - `total_code.sql`
+    - `triggers_related_procedures.sql`
+  - **Phase B/**
+    - `actor_entries.sql`
+    - `indexes.sql`
+    - `insering_tuples_in_tables.sql`
+    - `production.sql`
+    - `table_row_generator.py`
+    - `tablecreation.sql`
+
+---
